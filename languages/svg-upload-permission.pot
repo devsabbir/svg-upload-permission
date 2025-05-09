@@ -1,0 +1,20 @@
+msgid "SVG Upload Permission"
+msgstr ""
+
+msgid "SVG Upload"
+msgstr ""
+
+msgid "Settings Saved"
+msgstr ""
+
+msgid "SVG Upload Permission Settings"
+msgstr ""
+
+msgid "Enable SVG Uploads"
+msgstr ""
+
+msgid "Insecure SVG file detected."
+msgstr ""
+
+msgid "Invalid SVG format."
+msgstr ""
